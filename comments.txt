@@ -1,0 +1,4 @@
+I have created the routes folder for better managaing of the routes
+
+
+In models, all my database model will be going. Hence i have used the concept of MVC.
